@@ -1,2 +1,5 @@
-# DEFIBRILLATEUR-AUTOMATIQUE-FIVEM
-voici un script défibrillateur automatique qui permet de réanimer  toute personne morte . il vous suffit simplement d'utiliser l'item  
+SPOILER : IL VOUS FAUT OX TARGET ET OX INVENTORY 
+
+il vous suffit de le glisser dans vos fichier 
+
+et d'ajouter l'item dans ox inventory ( ox_inventory / data / item )
